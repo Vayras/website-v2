@@ -133,7 +133,7 @@ export const team = [
   {
     name: "Raj Maitra",
     designation: "General Head",
-    // desc: "Pen-and-paper engineer turned keyboard warrior in multiple rabbit holes. Often known for making a mess. An actual rabbit.",
+    desc: "Pen-and-paper engineer turned keyboard warrior in multiple rabbit holes. Often known for making a mess. An actual rabbit.",
     image: "raj",
     bgColor: "bg-black",
     textColor: "text-white",
